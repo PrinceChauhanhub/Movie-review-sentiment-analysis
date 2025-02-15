@@ -1,5 +1,8 @@
 This project uses a Recurrent Neural Network (RNN) to perform sentiment analysis on movie reviews. The model classifies reviews as positive or negative, helping understand audience feedback more effectively.
 
+## Project Deploymnet
+[App](https://movie-review-sentiment-analysis-01.streamlit.app/)
+
 ## Project Overview
 - The project focuses on analyzing movie reviews to determine sentiment (positive or negative).
 - It uses RNN architecture to capture sequential dependencies in text data.
