@@ -23,7 +23,7 @@ This project uses a Recurrent Neural Network (RNN) to perform sentiment analysis
 1. Clone the repository:
 git clone https://github.com/PrinceChauhanhub/Movie-review-sentiment-analysis.git
 
-2. Install the required libraries:2. Install the required libraries:
+2. Install the required libraries:
 pip install -r requirements.txt
 
 3. Run the Streamlit app:
